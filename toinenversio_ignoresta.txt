@@ -1,0 +1,11 @@
+# Ignoraa kaikki
+*
+
+# Salli tietyt tiedostot
+!.gitignore
+!.Rprofile
+!renv.lock
+!**/*.{R,md,Rproj}
+
+# Salli renv
+!renv/
